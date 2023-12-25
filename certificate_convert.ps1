@@ -1,5 +1,5 @@
 # Prompt the user to choose their desired action.
-$choice = Read-Host "What are you trying to do? Choose one of the following(1-4):
+$choice = Read-Host "Choose one of the following (1-4):
 
 1. Convert a PEM certificate to PFX.
 2. Convert a PFX certificate to PEM.
